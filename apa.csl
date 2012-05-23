@@ -307,7 +307,6 @@
         <group prefix=", " delimiter=", ">
           <group>
             <text variable="volume" font-style="italic"/>
-            <text variable="issue" prefix="(" suffix=")"/>
           </group>
           <text variable="page"/>
         </group>
